@@ -38,7 +38,7 @@ Ensure your components are wired as follows:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourGitHubUsername/Arduino-Based-Weather-Station.git
+   git clone https://github.com/Derimius/Weather-Station.git
 
 1. Open the Arduino IDE and upload the WeatherStation.ino sketch to your Arduino board.
 
