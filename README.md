@@ -3,7 +3,7 @@
 ![Demo](https://i.postimg.cc/J4K2L0W1/Screenshot-2017-10-22-12-15-21-1-1024x576.png)
 
 ## Overview
-This project, developed by [Michael Chukwukere](https://www.linkedin.com/in/chxxvo), is an Arduino-based weather station that measures and displays temperature, humidity, and atmospheric pressure data on a 16x2 LCD screen. It combines the data from a DHT22 humidity and temperature sensor with a BMP280 barometric pressure sensor to provide real-time weather information.
+This project, developed by [Michael Chukwukere](https://www.linkedin.com/in/mchukwukere), is an Arduino-based weather station that measures and displays temperature, humidity, and atmospheric pressure data on a 16x2 LCD screen. It combines the data from a DHT22 humidity and temperature sensor with a BMP280 barometric pressure sensor to provide real-time weather information.
 
 ## Table of Contents
 - [Components](#components)
